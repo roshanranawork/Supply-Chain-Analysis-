@@ -64,4 +64,7 @@ Power BI
 
 Author
 
-Roshan Rana LinkedIn | GitHub
+Roshan Rana
+
+LinkedIn: https://www.linkedin.com/in/roshan-rana-/
+GitHub: https://github.com/roshanranawork
