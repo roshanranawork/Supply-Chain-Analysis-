@@ -28,18 +28,21 @@ Order status: 93.57% closed, 5.26% cancelled, 1.17% open.
 Lead time (10.43 days) leaves room for further optimization.
 Dashboard Pages
 Page 1: Overview
+<img width="1348" height="729" alt="image" src="https://github.com/user-attachments/assets/c016ab6a-709a-48b6-a36e-752e1d892849" />
 
 Procurement spend, key KPIs, order status, supplier risk profile, and delay analysis.
 
 Overview
 
 Page 2: Supplier & Procurement Performance
+<img width="1284" height="738" alt="image" src="https://github.com/user-attachments/assets/26843710-5f51-41fb-a2e9-03a744787de5" />
 
 Supplier performance, purchase price variance, and procurement trends.
 
 Supplier & Procurement
 
 Page 3: Logistics & Delivery Performance
+<img width="1351" height="735" alt="image" src="https://github.com/user-attachments/assets/13b830c4-14c4-4945-bff4-05d646c7d3b3" />
 
 Delivery performance, freight cost, carrier SLA, and transport mode insights.
 
